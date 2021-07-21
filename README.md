@@ -4,8 +4,8 @@ The game is played on a square board and the player has to click on the cells wh
 
 At the beginning of the game, the user should be able to select the level of difficulty of the game.  
 ``
-Choose your level of difficulty:
-    -Beginner /9x9 board, 10 mines/
-    -Intermediate /16x16 board, 40 mines/
-    -Advanced /24x24 board, 40 mines/
+Choose your level of difficulty:  
+    -Beginner /9x9 board, 10 mines/  
+    -Intermediate /16x16 board, 40 mines/  
+    -Advanced /24x24 board, 40 mines/  
 ``
